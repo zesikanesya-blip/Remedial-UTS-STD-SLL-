@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1767021894 source:c:\users\user\onedrive - telkom university\coding\tp c\remedial std_sll\main.cpp
+	<iostream>
+	"SLL.h"
+
+1767022805 c:\users\user\onedrive - telkom university\coding\tp c\remedial std_sll\sll.h
+	<iostream>
+
+1767022805 source:c:\users\user\onedrive - telkom university\coding\tp c\remedial std_sll\sll.cpp
+	<iostream>
+	"SLL.h"
+
